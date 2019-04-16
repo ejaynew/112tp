@@ -10,6 +10,6 @@ import aubio
 # from SheetVision.midiutil.MidiFile3 import MIDIFile
 
 from detectPitches import recordPitchFromInput
-from SheetVision.main import jpg2midi
+from main import jpg2midi
 
-jpg2midi("/Users/emma/Documents/15-112/TP/SheetVision/resources/samples/fire.jpg")
+jpg2midi("/Users/emma/Documents/15-112/112tp/SheetVision/resources/samples/fire.jpg")
